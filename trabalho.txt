@@ -68,3 +68,22 @@
     <input type="date" name="data_nascimento" id="data_nascimento" >
    </div>
   </fieldset>
+
+ <fieldset>
+    <div class="campo">
+      <label> <strong> Cidade: </strong></label>
+      <input type="text" name="cidade" id="cidade" >
+    </div>
+
+    <div class="campo">
+      <label> <strong> Estado: </strong></label>
+      <input type="text" name="estado" id="estado" >
+    </div>
+
+    <div class="campo">
+      <label> <strong> País: </strong></label>
+      <input type="text" name="país" id="país" >
+    </div>
+
+   </fieldset>
+
