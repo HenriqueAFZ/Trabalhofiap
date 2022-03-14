@@ -23,3 +23,13 @@
    </div>
  </nav>
    </div>
+
+
+
+<div>
+  <h1 id="titulo">Perfil!</h1>
+  <p id="subtitulo">Veja seus dados e altere-os se for preciso </p>
+  <br>
+</div>
+
+<div class="perf">
