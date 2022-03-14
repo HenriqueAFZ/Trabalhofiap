@@ -45,3 +45,9 @@
         <label> <strong> Sobrenome: </strong></label>
         <input type="text" name="sobrenome" id="sobrenome" >
       </div>
+      <div class="campo">
+        <label> <strong> Peso Atual: </strong></label>
+        <input type="number" name="peso_atual" id="peso_atual" >
+      </div>
+
+     </fieldset>
