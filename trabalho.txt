@@ -51,3 +51,20 @@
       </div>
 
      </fieldset>
+
+ <fieldset>
+   <div class="campo">
+    <label> <strong> E-mail: </strong> </label>
+    <input type="email" name="email" id="email" >
+   </div>
+
+   <div class="campo">
+    <label> <strong> Telefone: </strong> </label>
+    <input type="tel" name="telefone" id="telefone" >
+   </div>
+
+   <div class="campo">
+    <label> <strong> Data de Nascimento: </strong> </label>
+    <input type="date" name="data_nascimento" id="data_nascimento" >
+   </div>
+  </fieldset>
